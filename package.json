@@ -1,11 +1,19 @@
 {
-  "name": "toggl-data",
+  "name": "toggl-timemeter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Small converter for TimeMeter to Toggl csv data format.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Richard <hello@noxan.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noxan/toggl-timemeter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noxan/toggl-timemeter/issues"
+  },
+  "homepage": "https://github.com/noxan/toggl-timemeter#readme"
 }
