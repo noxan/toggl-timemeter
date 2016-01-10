@@ -1,0 +1,9 @@
+# vim
+*.swp
+*.swo
+
+# source and target csv
+*.csv
+
+# npm
+/node_modules/
