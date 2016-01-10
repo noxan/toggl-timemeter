@@ -8,6 +8,11 @@
   },
   "author": "Richard <hello@noxan.net>",
   "license": "MIT",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "moment": "^2.11.1",
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/noxan/toggl-timemeter.git"
